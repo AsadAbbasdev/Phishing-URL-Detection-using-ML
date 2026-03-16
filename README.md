@@ -179,7 +179,9 @@ URL: phishing-url-detector-webapp.streamlit.app
 
 Python Version: 3.10
 
-Auto-deploys on every push to main branch
+Auto-deploys on every push to main branch 
+
+```
 
 ## 👨‍💻 About the Developer
 
