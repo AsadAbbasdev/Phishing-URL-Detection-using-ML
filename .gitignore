@@ -34,5 +34,6 @@ Desktop.ini
 # Logs
 *.log
 
-# .gitignore mein yeh lines add karo
-echo "notebooks/catboost_info/" >> .gitignore
+# CatBoost temp files
+notebooks/catboost_info/
+catboost_info/
