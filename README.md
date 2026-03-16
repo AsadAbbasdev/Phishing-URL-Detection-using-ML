@@ -181,14 +181,13 @@ Python Version: 3.10
 
 Auto-deploys on every push to main branch
 
-👨‍💻 About the Developer
-Asad Abbas
+## 👨‍💻 About the Developer
 
-🔗 GitHub: @AsadAbbasdev
-
-🔗 Project Repo: Phishing-URL-Detection-using-ML
-
-📧 Email: [asadabbas.contact@gmail.com]
+**Asad Abbas**
+- 🐙 **GitHub**: [@AsadAbbasdev](https://github.com/AsadAbbasdev)
+- 📁 **Project**: [Phishing-URL-Detection-using-ML](https://github.com/AsadAbbasdev/Phishing-URL-Detection-using-ML)
+- 📧 **Email**: [asadabbas.contact@gmail.com](mailto:asadabbas.contact@gmail.com)
+- 💼 **LinkedIn**: [asad-abbas-it](https://www.linkedin.com/in/asad-abbas-it)
 
 🤝 Contributing
 Contributions are welcome! Feel free to:
