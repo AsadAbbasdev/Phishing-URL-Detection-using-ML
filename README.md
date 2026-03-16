@@ -181,6 +181,8 @@ Python Version: 3.10
 
 Auto-deploys on every push to main branch
 
+---
+
 ## 👨‍💻 About the Developer
 
 **Asad Abbas**
