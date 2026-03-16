@@ -191,6 +191,7 @@ Auto-deploys on every push to main branch
 - 📧 **Email**: [asadabbas.contact@gmail.com](mailto:asadabbas.contact@gmail.com)
 - 💼 **LinkedIn**: [asad-abbas-it](https://www.linkedin.com/in/asad-abbas-it)
 
+```bash
 🤝 Contributing
 Contributions are welcome! Feel free to:
 
