@@ -1,0 +1,37 @@
+# Virtual Environment - TUMHARA EXACT NAAM
+phishing_env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Model files (optional - agar 100MB se bade ho to)
+# models/*.pkl
+# models/*.joblib
+
+# Data files (optional)
+data/*.csv
+data/*.xlsx
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# .gitignore mein yeh lines add karo
+echo "notebooks/catboost_info/" >> .gitignore
